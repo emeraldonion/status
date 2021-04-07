@@ -13,7 +13,7 @@ sites:
     url: $SEAR01TRANSIT01V4
     port: $ROUTERPORT
   - name: SEA-R01 Transit 1 IPv6
-    url: ipv6.google.com
+    url: [ipv6.google.com]
     port: 80
   - name: Test for HEAD
     method: HEAD
