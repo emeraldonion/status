@@ -9,13 +9,18 @@ sites:
   - name: Disobey
     url: https://disobey.net/
     icon: https://disobey.net/favicon.ico
+  - name: SEA-R01 Transit 1 IPv4
+    url: $SEAR01TRANSIT01V4
+    port: $ROUTERPORT
+  - name: SEA-R01 Transit 1 IPv6
+    url: $SEAR01TRANSIT01V6
+    port: $ROUTERPORT
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
   - name: Secret Site
     url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
