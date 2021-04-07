@@ -6,12 +6,9 @@ repo: status # Your GitHub repository name
 sites:
   - name: EmeraldOnion
     url: https://emeraldonion.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Disobey
+    url: https://disobey.net/
+    icon: https://disobey.net/favicon.ico
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
