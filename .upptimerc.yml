@@ -13,13 +13,11 @@ sites:
     url: $SEAR01TRANSIT01V4
     port: $ROUTERPORT
   - name: SEA-R01 Transit 1 IPv6
-    url: $SEAR01TRANSIT01V6
-    port: $ROUTERPORT
+    url: ipv6.google.com
+    port: 80
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 
 status-website:
