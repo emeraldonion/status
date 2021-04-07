@@ -25,7 +25,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://emeraldonion.org/images/Emerald-Onion-transparent.png
   name: Emerald Onion Status
   introTitle: "**EmeraldOnion** uptime monitor and status page"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/emeraldonion/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
