@@ -14,7 +14,7 @@ sites:
     url: $SEAR01TRANSIT01V4
     port: $ROUTERPORT
   - name: SEA-R01 Transit IPv6
-    url: https://[2607:f8b0:4007:810::200e]:443
+    url: https://ipv6.google.com:443
     method: HEAD
     __dangerous__insecure: true
 
