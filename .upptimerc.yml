@@ -14,9 +14,9 @@ sites:
     url: $SEAR01TRANSIT01V4
     port: $ROUTERPORT
   - name: SEA-R01 Transit IPv6
-    check: "tcp-ping"
-    url: $SEAR01TRANSIT01V6
-    port: $ROUTERPORT
+    url: https://$SEAR01TRANSIT01V6:$ROUTERPORT
+    method: HEAD
+    __dangerous__insecure: true
 
 
 status-website:
