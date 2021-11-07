@@ -22,7 +22,7 @@
     "url": "https://disobey.net/",
     "icon": "https://disobey.net/favicon.ico",
     "slug": "disobey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 466,
     "timeDay": 347,
     "timeWeek": 420,
-    "timeMonth": 470,
+    "timeMonth": 436,
     "timeYear": 466,
     "dailyMinutesDown": {}
   },
